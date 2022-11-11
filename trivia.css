@@ -1,0 +1,42 @@
+html {
+    background-color: bisque;
+}
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    background-color: white;
+    width: 790px;
+    margin: 10% auto;
+    border: 3px solid blue;
+    padding: 1em;
+}
+h1 {
+    color: blue;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+p {
+    margin: 0;
+    padding: .5em 0;
+    text-align: center;	
+}
+div {
+    border: 5px solid red;
+    margin: 10% auto;
+}
+ul {
+	padding-left: 0;
+	text-align: center;
+}
+
+
+
+.submit {
+    margin-bottom: 1%;
+    top: 10%;
+    left: 90%;
+    /* height: 10% auto; */
+    position: relative;
+    
+}
